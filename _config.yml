@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "uh" # "stim" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -25,12 +25,12 @@ description              : "Scalable Tissue Imaging and Modeling Lab at the Univ
 url                      : "https://stim-lab.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "STIM-Lab/stim-lab.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/images/vascular.png"
+logo                     : "/assets/images/vessel_icon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
-enable_copy_code_button  : # true, false (default)
+enable_copy_code_button  : true
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
@@ -89,7 +89,7 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
+twitter: 
   username               :
 facebook:
   username               :
