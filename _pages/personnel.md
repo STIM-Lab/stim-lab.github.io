@@ -20,7 +20,6 @@ principal_row:
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/david-mayerich-629667101/)
       [<i class="fa-brands fa-square-github"></i>](https://github.com/STIM-Lab)  
       
-      ---
       photonics, microscopy, high performance computing  
 senior_row:
 #  - #image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -38,7 +37,6 @@ junior_row:
       [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0009-0004-0836-5917)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/helya-goharbavang/)  
 
-      ---
       segmentation, high-performance computing, tensor fields, vascular networks
 
   - image_path: /assets/images/people/mahshid.jpg
@@ -48,7 +46,6 @@ junior_row:
       [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0000-0001-8616-1400)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/mahshidbabeli853/)  
 
-      ---
       image registration, optimization, histology segmentation
 
   - image_path: /assets/images/people/meher.jpg
@@ -58,7 +55,6 @@ junior_row:
       [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0009-0003-5588-224X)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/meher-niger-84177bb1/) 
 
-      ---
       vascular segmentation, level set methods, high-performance computing  
 
 alumni_row:
