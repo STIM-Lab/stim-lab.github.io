@@ -172,7 +172,7 @@ alumni_row:
   - image_path: /assets/images/people/rupali.jpg
     title: "Rupali Mankar"
     excerpt: |-
-      *PhD* (2019)  
+      *PhD* [2019]  
       [<i class="fa-brands fa-google-scholar"></i>](https://scholar.google.com/citations?user=MNUEz0QAAAAJ)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/rupalimankar/)  
       spectroscopy, machine learning   
