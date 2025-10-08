@@ -22,13 +22,14 @@ principal_row:
       
       photonics, microscopy, high performance computing  
 senior_row:
-#  - #image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    #alt: "placeholder image 2"
-#    title: "Lang Wang"
-#    excerpt: |-
-#      *Postdoctoral Fellow*  
-#      [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0009-0004-0836-5917)
-#      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/helya-goharbavang/)
+  - image_path: /assets/images/people/lang.jpg
+    title: "Lang Wang"
+    excerpt: |-
+      *Postdoctoral Fellow*  
+      [<i class="fa-brands fa-google-scholar"></i>](https://scholar.google.com/citations?user=e82oqhEAAAAJ)
+      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/langwanguiuc/)  
+
+      optics, optical modeling, scattering, optical imaging
 junior_row:
   - image_path: /assets/images/people/helia.jpg
     title: "Helia Goharbavang"
@@ -221,7 +222,7 @@ undergrad_row:
 {% include personnel_row id="principal_row" type="left" %}
 
 ## Senior Researchers
-{% include personnel_row id="senior_row" type="right" %}
+{% include personnel_row id="senior_row" type="left" %}
 
 ## Junior Researchers
 {% include personnel_row id="junior_row" type="left" %}
