@@ -12,13 +12,13 @@ principal_row:
     alt: "chemical holography instrumentation"
     title: "David Mayerich"
     excerpt: |-
+      Associate Professor  
+      CPRIT Scholar in Cancer Research  
+      NSF CAREER Awardee  
       [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0000-0002-3949-6133)
       [<i class="fa-brands fa-google-scholar"></i>](https://scholar.google.com/citations?user=pLAwPhYAAAAJ)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/david-mayerich-629667101/)
       [<i class="fa-brands fa-square-github"></i>](https://github.com/STIM-Lab)  
-      Associate Professor  
-      CPRIT Scholar in Cancer Research  
-      NSF CAREER Awardee  
       
       ---
       photonics, microscopy, high performance computing  
@@ -31,9 +31,9 @@ junior_row:
   - image_path: /assets/images/people/helia.jpg
     title: "Helia Goharbavang"
     excerpt: |-
+      *PhD Candidate*  
       [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0009-0004-0836-5917)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/helya-goharbavang/)  
-      *PhD Candidate*
 
       ---
       segmentation, high-performance computing, tensor fields, vascular networks
@@ -41,9 +41,9 @@ junior_row:
   - image_path: /assets/images/people/mahshid.jpg
     title: "Mahshid Babeli Nia"
     excerpt: |-
+      *PhD Candidate*  
       [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0000-0001-8616-1400)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/mahshidbabeli853/)  
-      *PhD Candidate*  
 
       ---
       image registration, optimization, histology segmentation
@@ -51,9 +51,9 @@ junior_row:
   - image_path: /assets/images/people/meher.jpg
     title: "Meher Niger"
     excerpt: |-
-      [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0009-0003-5588-224X)
-      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/meher-niger-84177bb1/)  
       *PhD Candidate*  
+      [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0009-0003-5588-224X)
+      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/meher-niger-84177bb1/) 
 
       ---
       vascular segmentation, level set methods, high-performance computing  
@@ -62,126 +62,126 @@ alumni_row:
   - image_path: /assets/images/people/nathaly.jpg
     title: "Nathaly Andrea Castaneda Quintero"
     excerpt: |-
-      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/nathalya-castaneda/)  
       *PhD* (2025)  
+      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/nathalya-castaneda/)  
       superconducting materials   
 
   - image_path: /assets/images/people/omar.jpg
     title: "Omar Baig"
     excerpt: |-
-      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/oabaig/)  
       *MS* (2024)  
+      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/oabaig/)  
       HPC, tensor fields 
 
   - image_path: /assets/images/people/ruijiao.jpg
     title: "Ruijiao Sun"
     excerpt: |-
-      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/ruijiao-sun/)  
       *PhD* (2024)  
+      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/ruijiao-sun/)  
       HPC, optical scattering   
 
   - image_path: /assets/images/people/dilani.jpg
     title: "Dilani Gunawardhana"
     excerpt: |-
+      *PhD* (2022)  
+      *Postdoc* (2023)  
       [<i class="fa-brands fa-google-scholar"></i>](https://scholar.google.com/citations?user=wUOmR9sAAAAJ)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/dilani-gunawardhana-761478a0/)  
-      *PhD* (2022)  
-      *Postdoctoral Fellow* (2023)  
       deconvolution, expansion microscopy   
 
   - image_path: /assets/images/people/jiaming.jpg
     title: "Jiaming Guo"
     excerpt: |-
-      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/jiaming-guo/)  
       *PhD* (2020)  
-      *Postdoctoral Fellow* (2022)  
+      *Postdoc* (2022)  
+      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/jiaming-guo/)  
       HPC, optics, microscopy   
 
   - image_path: /assets/images/people/tasha.jpg
     title: "Tasha Womack"
     excerpt: |-
+      *Postdoc* (2022)  
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/tasha-womack-387a07175/)  
-      *Postdoctoral Fellow* (2022)  
       histology   
 
   - image_path: /assets/images/people/pavel.jpg
     title: "Pavel Govyadinov"
     excerpt: |-
-      [<i class="fa-brands fa-google-scholar"></i>](https://scholar.google.com/citations?user=UtnYLv0AAAAJ)
-      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/pavel-govyadinov-39a5151a8/)  
       *PhD* (2019)  
       *NLM Fellow* (2022)  
+      [<i class="fa-brands fa-google-scholar"></i>](https://scholar.google.com/citations?user=UtnYLv0AAAAJ)
+      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/pavel-govyadinov-39a5151a8/)  
       HPC, network analysis   
 
   - image_path: /assets/images/people/camille.jpg
     title: "Camille Artur"
     excerpt: |-
+      *Postdoc* (2021)  
       [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0000-0002-6819-1304)
       [<i class="fa-brands fa-google-scholar"></i>](https://scholar.google.com/citations?user=-rBcR0UAAAAJ)
-      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/camilleartur/)    
-      *Postdoctoral Fellow* (2021)  
+      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/camilleartur/)  
       physics, optics, histology   
 
   - image_path: /assets/images/people/mahsa.jpg
     title: "Mahsa Lotfollahi"
     excerpt: |-
+      *PhD* (2020)  
       [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0000-0002-8119-6505)
       [<i class="fa-brands fa-google-scholar"></i>](https://scholar.google.com/citations?user=Hujx43gAAAAJ)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/mahsa-lotfollahi/)  
-      *PhD* (2020)  
       HPC, image processing   
 
   - image_path: /assets/images/people/jiabing.jpg
     title: "Jiabing Li"
     excerpt: |-
-      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/jiabing-li-35664aa6/)  
       *PhD* (2020)  
+      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/jiabing-li-35664aa6/)  
       image segmentation, machine learning   
 
   - image_path: /assets/images/people/shihao.jpg
     title: "Shihao Ran"
     excerpt: |-
+      *PhD* (2020)  
       [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0000-0002-4074-2565)
       [<i class="fa-brands fa-google-scholar"></i>](https://scholar.google.com/citations?user=CdNrn1IAAAAJ)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/shihao-ran/)  
-      *PhD* (2020)  
       optics, holography, spectroscopy   
 
   - image_path: /assets/images/people/sebastian.jpg
     title: "Sebastian Berisha"
     excerpt: |-
+      *NLM Fellow* (2019)   
       [<i class="fa-brands fa-google-scholar"></i>](https://scholar.google.com/citations?user=5N9TqWUAAAAJ)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/rupalimankar/)  
-      *NLM Fellow* (2019)   
       spectroscopy, machine learning  
 
   - image_path: /assets/images/people/rupali.jpg
     title: "Rupali Mankar"
     excerpt: |-
+      *PhD* (2019)  
       [<i class="fa-brands fa-google-scholar"></i>](https://scholar.google.com/citations?user=MNUEz0QAAAAJ)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/rupalimankar/)  
-      *PhD* (2019)  
       spectroscopy, machine learning   
 
   - image_path: /assets/images/people/leila.jpg
     title: "Leila Saadatifard"
     excerpt: |-
-      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/lsaadati/)  
       *PhD* (2019)  
+      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/lsaadati/)  
       image segmentation, machine learning   
 
   - image_path: /assets/images/people/srijani.jpg
     title: "Srijani Mukherjee"
     excerpt: |-
-      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/srijani-mukherjee/)  
       *MS* (2017)  
+      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/srijani-mukherjee/)  
       HPC, tensor fields   
 
   - image_path: /assets/images/people/pranathi.jpg
     title: "Pranathi Vemuri"
     excerpt: |-
-      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/pranathi-vemuri-ms/)  
       *MS* (2016)  
+      [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/pranathi-vemuri-ms/)  
       segmentation, visualization   
 
 undergrad_row:
