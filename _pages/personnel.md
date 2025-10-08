@@ -1,5 +1,5 @@
 ---
-#title: "Personnel"
+title: "Personnel"
 permalink: /personnel/
 layout: single
 #classes: wide
@@ -190,13 +190,13 @@ undergrad_row:
     title: "Maximillian Bluhm"
     excerpt: |-
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/maximillian-bluhm-844371222/)  
-      *NSF BRAIN Center REU* (2023)  
+      *NSF BRAIN REU* (2023)  
 
   - image_path: /assets/images/people/rebecca.jpg
     title: "Rebecca Clements"
     excerpt: |-
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/rebeccaclements1/)  
-      *NSF BRAIN Center REU* (2020)  
+      *NSF BRAIN REU* (2020)  
 
   - image_path: /assets/images/people/shengyuan.jpg
     title: "Shengyuan Chang"
