@@ -1,14 +1,17 @@
 # main links
 main:
+  - title: "Home"
+    description: "recent news and publications"
+    url: /
+  - title: "People"
+    description: "researchers, students, and alumni"
+    url: /personnel/
   - title: "Research"
     description: "projects, publications, and code"
     url: /research/
   - title: "Education"
     description: "courses, internships, and undergraduate research"
     url: /education/
-  - title: "Personnel"
-    description: "researchers, students, and alumni"
-    url: /personnel/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
