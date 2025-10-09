@@ -60,7 +60,7 @@ junior_row:
       [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0009-0003-4467-2829)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/artem-ashitkov-ab98312b5/)  
 
-      segmentation, high-performance computing, tensor fields, vascular networks
+      HPC, biological modeling
 
   - image_path: /assets/images/people/mahshid.jpg
     title: "Mahshid Babeli Nia"
@@ -71,6 +71,14 @@ junior_row:
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/mahshidbabeli853/)  
 
       image registration, optimization, histology segmentation
+
+  - image_path: /assets/images/people/nathan.jpg
+    title: "Nathan Touchet"
+    excerpt: |-
+      *MS Student*  
+      [2025 --]  
+
+      vascular modeling, instrumentation
 
 alumni_row:
   - image_path: /assets/images/people/nathaly.jpg
