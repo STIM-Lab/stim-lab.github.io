@@ -43,10 +43,11 @@ junior_row:
       vascular segmentation, level set methods, high-performance computing  
 
   - image_path: /assets/images/people/helia.jpg
-    title: "Helia Goharbavang"
+    title: "Helya Goharbavang"
     excerpt: |-
       *PhD Candidate*  
       [2022 --]  
+      [<i class="fas fa-globe"></i>](https://www.helia-gohar.com/)
       [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0009-0004-0836-5917)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/helya-goharbavang/)  
 
