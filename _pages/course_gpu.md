@@ -58,7 +58,9 @@ topics:
       [CUDA Threads and Kernels](https://www.dropbox.com/scl/fi/hthzzb4qgwgsfy98kxwip/12-CUDA-threads.pdf?rlkey=87vln2znern659ua3h1uj1jq8&dl=1)  
       CUDA language and how kernels are implemented and run on GPUs  
       [CUDA Thrust](https://www.dropbox.com/scl/fi/mcw9hgnmr5x8om8ektjjq/13-CUDA-Thrust.pdf?rlkey=934tx5abac0au0w5stwl271yc&dl=0)  
-      Standard CUDA template library structures and functions
+      Standard CUDA template library structures and functions  
+      [CUDA Thread Scaling](https://www.dropbox.com/scl/fi/oz0tnwgu74qo6ykjrub8k/14-CUDA-thread-scaling.pdf?rlkey=uxxnalqvc7tn1aeb8vgq4z20n&dl=1)  
+      Designing scalable programs and kernels
 
   
 ---
