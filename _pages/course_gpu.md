@@ -42,7 +42,7 @@ topics:
       Using C++ std::thread with callback functions  
       [A.2 Parallel Ray Tracing](https://www.dropbox.com/scl/fi/ocxu3citsp2hoi1eavsvs/07.A-parallel-ray-tracing.pdf?rlkey=9m0nim3547br73wuai49naedm&st=bec1yufs&dl=1)  
       Implementing a parallel path tracer using multithreading  
-      **Programming Assignment 3:** [Ray Tracing]()  
+      **Programming Assignment 3:** [Ray Tracing](https://www.dropbox.com/scl/fi/61nsoesd3hrqyp9sw2ubv/raytrace_threads.pdf?rlkey=9bf84yoqr6cn8uipr7u3bm6id&st=b2w1meba&dl=1)  
       **Implement a multi-threaded version of the programming assignment**  
       [Thread Optimization](https://www.dropbox.com/scl/fi/4989l4ttg2ji5nxzvwp06/08-optimization.pdf?rlkey=l102hp9dm0s62tb72lw8v16kd&dl=1)  
       Discussion of how to optimize parallel applications
@@ -73,7 +73,7 @@ W324 Engineering Building 1
 Online and In-Person appointments via [Calendly](https://calendly.com/mayerich/office)
 
 ### Syllabus
-Most recent: [Fall 2025]()
+[Fall 2025](https://uh.simplesyllabus.com/doc/rff11tspw/Fall-2025-ECE-6360-19006-Parallel-Algorithms-for-GPUs-and-Heterogeneous-Systems?mode=view)
 
 
 ## Course Outline and Lectures
