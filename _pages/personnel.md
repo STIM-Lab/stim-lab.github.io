@@ -15,6 +15,7 @@ principal_row:
       Associate Professor  
       CPRIT Scholar in Cancer Research  
       NSF CAREER Awardee  
+      [<i class="fa-solid fa-envelope"></i>](mailto:mayerich@uh.edu)
       [<i class="fa-brands fa-orcid"></i>](https://orcid.org/0000-0002-3949-6133)
       [<i class="fa-brands fa-google-scholar"></i>](https://scholar.google.com/citations?user=pLAwPhYAAAAJ)
       [<i class="fa-brands fa-square-linkedin"></i>](https://www.linkedin.com/in/david-mayerich-629667101/)
