@@ -37,7 +37,7 @@ topics:
 
   - name: 6 - Precision Loss
     material: |-
-      6.1 Catastrophic Cancellation 
+      6.1 Catastrophic Cancellation  
       6.2 Improving Precision  
       6.3 Taylor Series  
       Homework 6 [PDF](/assets/pdf/nm_hw01.pdf)
