@@ -8,84 +8,72 @@ author_profile: false
 topics:
   - name: Introduction
     material: |-
-      [Introduction](https://slides.com/stim-lab/ece3340-00-0-introduction)
+      [A.1 Introduction](https://slides.com/stim-lab/ece3340-00-0-introduction)  
+      [A.2 Math Fundamentals](https://slides.com/stim-lab/ece3340-01-01-math)  
+      Homework 1: [PDF](/assets/pdf/nm_hw01.pdf)  
+      [A.3 Programming Digital Systems](https://slides.com/stim-lab/ece3340-01-02-programming)  
+      Homework 2: [PDF](/assets/pdf/nm_hw02.pdf)
 
-  - name: 1 - Mathematics Review
+  - name: Measurements
     material: |-
-      [1.1 Math Fundamentals](https://slides.com/stim-lab/ece3340-01-01-math)  
-      Homework 1: [PDF](/assets/pdf/nm_hw01.pdf)
+      [B.1 Measuring Algorithms](https://slides.com/stim-lab/ece3340-02-01-complexity)  
+      Homework 3: [PDF](/assets/pdf/nm_hw03.pdf)  
+      [B.2 Measuring Error](https://slides.com/stim-lab/ece3340-02-02-error)  
+      Homework 4: [PDF](/assets/pdf/nm_hw04.pdf)
 
-  - name: 2 - Coding Review
+  - name: Numbers and Precision
     material: |-
-      [1.2 Programming Digital Systems](https://slides.com/stim-lab/ece3340-01-02-programming)  
-      Homework 2: [PDF](/assets/pdf/nm_hw01.pdf)
+      [C.1 Numbers in Digital Systems](https://slides.com/stim-lab/ece3340-03-01-numbers)  
+      Homework 5: [PDF](/assets/pdf/nm_hw05.pdf)  
+      C.2 Catastrophic Cancellation  
+      C.3 Improving Precision  
+      C.4 Taylor Series  
+      Homework 6 [PDF](/assets/pdf/nm_hw06.pdf)
 
-  - name: 3 - Discrete Math
+  - name: Solving Equations
     material: |-
-      [2.1 Measuring Algorithms](https://slides.com/stim-lab/ece3340-02-01-complexity)  
-      Homework 3: [PDF](/assets/pdf/nm_hw01.pdf)
+      D.1 Bracketing Methods  
+      D.2 Householder Methods  
+      Homework 7: [PDF](/assets/pdf/nm_hw07.pdf)
 
-  - name: 4 - Numerical Error
+  - name: Solving Linear Systems
     material: |-
-      [2.2 Measuring Error](https://slides.com/stim-lab/ece3340-02-02-error)  
-      Homework 4: [PDF](/assets/pdf/nm_hw01.pdf)
+      E.1 Linear Systems  
+      E.2 Stable Solutions
+      Homework 8: [PDF](/assets/pdf/nm_hw08.pdf)
 
-  - name: 5 - Numbers in Digital Systems
+  - name: Advanced Matrix Operations
     material: |-
-      [3.1 Numbers in Digital Systems](https://slides.com/stim-lab/ece3340-03-01-numbers)  
-      Homework 5: [PDF](/assets/pdf/nm_hw01.pdf)
+      F.1 LU Decomposition  
+      F.2 Matrix Properties  
+      Homework 9: [PDF](/assets/pdf/nm_hw09.pdf)
 
-  - name: 6 - Precision Loss
+  - name: Calculus
     material: |-
-      6.1 Catastrophic Cancellation  
-      6.2 Improving Precision  
-      6.3 Taylor Series  
-      Homework 6 [PDF](/assets/pdf/nm_hw01.pdf)
+      G.1 Differentiation  
+      G.2 Integration  
+      Homework 10: [PDF](/assets/pdf/nm_hw10.pdf)
 
-  - name: 7 - Solving Equations
+  - name: Solving Differential Equations
     material: |-
-      7.1 Bracketing Methods  
-      7.2 Householder Methods  
-      Homework 7: [PDF](/assets/pdf/nm_hw01.pdf)
-
-  - name: 8 - Solving Linear Systems
-    material: |-
-      8.1 Linear Systems  
-      8.2 Stable Solutions
-      Homework 8: [PDF](/assets/pdf/nm_hw01.pdf)
-
-  - name: 9 - Advanced Matrix Operations
-    material: |-
-      9.1 LU Decomposition  
-      9.2 Matrix Properties  
-      Homework 9: [PDF](/assets/pdf/nm_hw01.pdf)
-
-  - name: 10 - Calculus
-    material: |-
-      10.1 Differentiation  
-      10.2 Integration  
-      Homework 10: [PDF](/assets/pdf/nm_hw01.pdf)
-
-  - name: 11 - Solving Differential Equations
-    material: |-
-      11.1 Differential Equations  
-      11.2 The Kessel Run (Mathematics)  
-      11.3 The Kessel Run (Implementation)  
-      Homework 11: [PDF](/assets/pdf/nm_hw01.pdf)  
+      H.1 Differential Equations  
+      H.2 The Kessel Run (Mathematics)  
+      H.3 The Kessel Run (Implementation)  
+      Homework 11: [PDF](/assets/pdf/nm_hw11.pdf)  
       Programming Assignment: [GitHub](https://github.com/STIM-Lab/kesselrun_template)
 
-  - name: 12 - Random Numbers
+  - name: Random Numbers
     material: |-
-      12.1 Probability and LCGs 
-      12.2 Cryptography and CSPRNGs  
-      Homework 12: [PDF](https://www.dropbox.com/scl/fi/l8od07k6h6mdo9111w1wv/hw12.pdf?rlkey=1pb1yzcx757v2ts1mdreouixu&dl=1)
+      I.1 Probability and LCGs 
+      I.2 Cryptography and CSPRNGs  
+      Homework 12: [PDF](/assets/pdf/nm_hw12.pdf)
 
-  - name: 13 - Regression and Optimization
+  - name: Regression and Optimization
     material: |-
-      13.1 Interpolation  
-      13.2 Linear Least Squares  
-      13.3 Nonlinear Least Squares  
-      13.4 Optimization  
+      J.1 Interpolation  
+      J.2 Linear Least Squares  
+      J.3 Nonlinear Least Squares  
+      J.4 Optimization  
 ---
 
 <img title="a title" alt="Alt text" src="/assets/images/courses/ece3340_header.jpg">
