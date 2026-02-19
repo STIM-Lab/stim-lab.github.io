@@ -8,22 +8,22 @@ author_profile: false
 topics:
   - name: Introduction
     material: |-
-      [A.1 Introduction](https://slides.com/stim-lab/ece3340-00-0-introduction)  
-      [A.2 Math Fundamentals](https://slides.com/stim-lab/ece3340-01-01-math)  
+      [A.1 Introduction](https://slides.com/stim-lab/ece3340-a-1-introduction)  
+      [A.2 Math Fundamentals](https://slides.com/stim-lab/ece3340-a-2-math/edit)  
       Homework 1: [PDF](/assets/pdf/nm_hw01.pdf)  
-      [A.3 Programming Digital Systems](https://slides.com/stim-lab/ece3340-01-02-programming)  
+      [A.3 Programming Digital Systems](https://slides.com/stim-lab/ece3340-a-3-programming)  
       Homework 2: [PDF](/assets/pdf/nm_hw02.pdf)
 
   - name: Measurements
     material: |-
-      [B.1 Measuring Algorithms](https://slides.com/stim-lab/ece3340-02-01-complexity)  
+      [B.1 Measuring Algorithms](https://slides.com/stim-lab/ece3340-b-1-complexity)  
       Homework 3: [PDF](/assets/pdf/nm_hw03.pdf)  
-      [B.2 Measuring Error](https://slides.com/stim-lab/ece3340-02-02-error)  
+      [B.2 Measuring Error](https://slides.com/stim-lab/ece3340-b-2-error)  
       Homework 4: [PDF](/assets/pdf/nm_hw04.pdf)
 
   - name: Numbers and Precision
     material: |-
-      [C.1 Numbers in Digital Systems](https://slides.com/stim-lab/ece3340-03-01-numbers)  
+      [C.1 Numbers in Digital Systems](https://slides.com/stim-lab/ece3340-c-1-numbers)  
       Homework 5: [PDF](/assets/pdf/nm_hw05.pdf)  
       [C.2 Catastrophic Cancellation](https://slides.com/stim-lab/03-1-numbers-in-digital-systems)  
       C.3 Improving Precision  
