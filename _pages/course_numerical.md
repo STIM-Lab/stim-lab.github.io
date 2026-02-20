@@ -12,7 +12,8 @@ topics:
       [A.2 Math Fundamentals](https://slides.com/stim-lab/ece3340-a-2-math/edit)  
       Homework 1: [PDF](/assets/pdf/nm_hw01.pdf)  
       [A.3 Programming Digital Systems](https://slides.com/stim-lab/ece3340-a-3-programming)  
-      Homework 2: [PDF](/assets/pdf/nm_hw02.pdf)
+      Homework 2: [PDF](/assets/pdf/nm_hw02.pdf)  
+      Programming 1: [PDF](/assets/pdf/programming1.pdf)
 
   - name: Measurements
     material: |-
