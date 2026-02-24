@@ -26,7 +26,7 @@ topics:
     material: |-
       [C.1 Numbers in Digital Systems](https://slides.com/stim-lab/ece3340-c-1-numbers)  
       Homework 5: [PDF](/assets/pdf/nm_hw05.pdf)  
-      [C.2 Catastrophic Cancellation](https://slides.com/stim-lab/03-1-numbers-in-digital-systems)  
+      [C.2 Catastrophic Cancellation](https://slides.com/stim-lab/ece3340-c-1-cancellation)  
       C.3 Improving Precision  
       C.4 Taylor Series  
       Homework 6 [PDF](/assets/pdf/nm_hw06.pdf)
@@ -34,7 +34,7 @@ topics:
   - name: Solving Equations
     material: |-
       [D.1 Bracketing Methods](https://slides.com/stim-lab/ece3340-d-1-bracketing)  
-      D.2 Householder Methods  
+      [D.2 Householder Methods](https://slides.com/stim-lab/ece3340-d-2-householders-methods)  
       Homework 7: [PDF](/assets/pdf/nm_hw07.pdf)
 
   - name: Solving Linear Systems
