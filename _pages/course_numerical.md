@@ -39,7 +39,7 @@ topics:
 
   - name: Solving Linear Systems
     material: |-
-      E.1 Linear Systems  
+      [E.1 Linear Systems](https://slides.com/stim-lab/ece3340-e-1-linear-systems)  
       E.2 Stable Solutions
       Homework 8: [PDF](/assets/pdf/nm_hw08.pdf)
 
