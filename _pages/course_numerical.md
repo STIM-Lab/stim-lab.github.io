@@ -40,7 +40,7 @@ topics:
   - name: Solving Linear Systems
     material: |-
       [E.1 Linear Systems](https://slides.com/stim-lab/ece3340-e-1-linear-systems)  
-      E.2 Stable Solutions
+      [E.2 Direct Solutions](https://slides.com/stim-lab/ece3340-e2-direct-solutions)
       Homework 8: [PDF](/assets/pdf/nm_hw08.pdf)
 
   - name: Advanced Matrix Operations
