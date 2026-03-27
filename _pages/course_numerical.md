@@ -40,32 +40,25 @@ topics:
   - name: Solving Linear Systems
     material: |-
       [E.1 Linear Systems](https://slides.com/stim-lab/ece3340-e-1-linear-systems)  
-      [E.2 Direct Solutions](https://slides.com/stim-lab/ece3340-e2-direct-solutions)
-      Homework 8: [PDF](/assets/pdf/nm_hw08.pdf)
-
-  - name: Advanced Matrix Operations
-    material: |-
-      F.1 LU Decomposition  
-      F.2 Matrix Properties  
+      [E.2 Direct Solutions](https://slides.com/stim-lab/ece3340-e2-direct-solutions)  
+      Homework 8: [PDF](/assets/pdf/nm_hw08.pdf)  
+      [E.3 Matrix Properties](https://slides.com/stim-lab/ece3340-e3-matrix-properties)  
       Homework 9: [PDF](/assets/pdf/nm_hw09.pdf)
 
   - name: Calculus
     material: |-
       G.1 Differentiation  
       G.2 Integration  
-      Homework 10: [PDF](/assets/pdf/nm_hw10.pdf)
-
-  - name: Solving Differential Equations
-    material: |-
-      H.1 Differential Equations  
-      H.2 The Kessel Run (Mathematics)  
-      H.3 The Kessel Run (Implementation)  
+      Homework 10: [PDF](/assets/pdf/nm_hw10.pdf)  
+      G.3 Differential Equations  
       Homework 11: [PDF](/assets/pdf/nm_hw11.pdf)  
+      G.4 The Kessel Run (Mathematics)  
+      G.5 The Kessel Run (Implementation)  
       Programming Assignment: [GitHub](https://github.com/STIM-Lab/kesselrun_template)
 
   - name: Random Numbers
     material: |-
-      I.1 Probability and LCGs 
+      I.1 Pseudorandom Numbers  
       I.2 Cryptography and CSPRNGs  
       Homework 12: [PDF](/assets/pdf/nm_hw12.pdf)
 
