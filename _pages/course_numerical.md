@@ -47,27 +47,27 @@ topics:
 
   - name: Calculus
     material: |-
-      G.1 Differentiation  
-      G.2 Integration  
+      [F.1 Differentiation](https://slides.com/stim-lab/ece3340-f1-differentiation)  
+      F.2 Integration  
       Homework 10: [PDF](/assets/pdf/nm_hw10.pdf)  
-      G.3 Differential Equations  
+      F.3 Differential Equations  
       Homework 11: [PDF](/assets/pdf/nm_hw11.pdf)  
-      G.4 The Kessel Run (Mathematics)  
-      G.5 The Kessel Run (Implementation)  
+      F.4 The Kessel Run (Mathematics)  
+      F.5 The Kessel Run (Implementation)  
       Programming Assignment: [GitHub](https://github.com/STIM-Lab/kesselrun_template)
 
   - name: Random Numbers
     material: |-
-      I.1 Pseudorandom Numbers  
-      I.2 Cryptography and CSPRNGs  
+      G.1 Pseudorandom Numbers  
+      G.2 Cryptography and CSPRNGs  
       Homework 12: [PDF](/assets/pdf/nm_hw12.pdf)
 
   - name: Regression and Optimization
     material: |-
-      J.1 Interpolation  
-      J.2 Linear Least Squares  
-      J.3 Nonlinear Least Squares  
-      J.4 Optimization  
+      H.1 Interpolation  
+      H.2 Linear Least Squares  
+      H.3 Nonlinear Least Squares  
+      H.4 Optimization  
 ---
 
 <img title="a title" alt="Alt text" src="/assets/images/courses/ece3340_header.jpg">
