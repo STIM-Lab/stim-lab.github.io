@@ -44,30 +44,30 @@ topics:
       Homework 8: [PDF](/assets/pdf/nm_hw08.pdf)  
       [E.3 Matrix Properties](https://slides.com/stim-lab/ece3340-e3-matrix-properties)  
       Homework 9: [PDF](/assets/pdf/nm_hw09.pdf)
-
+  - name: Regression and Optimization
+    material: |-
+      [F.1 Interpolation](https://slides.com/stim-lab/ece3340-f1-interpolation)  
+      F.2 Linear Least Squares  
+      F.3 Nonlinear Least Squares  
+      F.4 Optimization 
   - name: Calculus
     material: |-
-      [F.1 Differentiation](https://slides.com/stim-lab/ece3340-f1-differentiation)  
-      F.2 Integration  
+      [G.1 Differentiation](https://slides.com/stim-lab/ece3340-g1-differentiation)  
+      G.2 Integration  
       Homework 10: [PDF](/assets/pdf/nm_hw10.pdf)  
-      F.3 Differential Equations  
+      G.3 Differential Equations  
       Homework 11: [PDF](/assets/pdf/nm_hw11.pdf)  
-      F.4 The Kessel Run (Mathematics)  
-      F.5 The Kessel Run (Implementation)  
+      G.4 The Kessel Run (Mathematics)  
+      G.5 The Kessel Run (Implementation)  
       Programming Assignment: [GitHub](https://github.com/STIM-Lab/kesselrun_template)
 
   - name: Random Numbers
     material: |-
-      G.1 Pseudorandom Numbers  
-      G.2 Cryptography and CSPRNGs  
+      H.1 Pseudorandom Numbers  
+      H.2 Cryptography and CSPRNGs  
       Homework 12: [PDF](/assets/pdf/nm_hw12.pdf)
 
-  - name: Regression and Optimization
-    material: |-
-      H.1 Interpolation  
-      H.2 Linear Least Squares  
-      H.3 Nonlinear Least Squares  
-      H.4 Optimization  
+   
 ---
 
 <img title="a title" alt="Alt text" src="/assets/images/courses/ece3340_header.jpg">
