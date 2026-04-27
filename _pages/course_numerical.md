@@ -47,9 +47,8 @@ topics:
   - name: Regression and Optimization
     material: |-
       [F.1 Interpolation](https://slides.com/stim-lab/ece3340-f1-interpolation)  
-      F.2 Linear Least Squares  
-      F.3 Nonlinear Least Squares  
-      F.4 Optimization 
+      [F.2 Regression](https://slides.com/stim-lab/ece3340-f2-regression)  
+      F.3 Optimization 
   - name: Calculus
     material: |-
       [G.1 Differentiation](https://slides.com/stim-lab/ece3340-g1-differentiation)  
@@ -59,7 +58,8 @@ topics:
       Homework 11: [PDF](/assets/pdf/nm_hw11.pdf)  
       G.4 The Kessel Run (Mathematics)  
       G.5 The Kessel Run (Implementation)  
-      Programming Assignment: [GitHub](https://github.com/STIM-Lab/kesselrun_template)
+      Programming Assignment: [Kessel Run](/assets/pdf/kessel.pdf)  
+      Template Repository: [GitHub](https://github.com/STIM-Lab/ece3340-kessel)
 
   - name: Random Numbers
     material: |-
