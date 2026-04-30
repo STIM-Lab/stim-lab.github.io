@@ -67,6 +67,10 @@ topics:
       H.2 Cryptography and CSPRNGs  
       Homework 12: [PDF](/assets/pdf/nm_hw12.pdf)
 
+  - name: Homework Answers
+    material: |-
+      [Homework Answer Slides](https://slides.com/stim-lab/ece3340_homework)
+
    
 ---
 
