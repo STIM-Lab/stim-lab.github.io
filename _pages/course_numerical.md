@@ -13,7 +13,7 @@ topics:
       Homework 1: [PDF](/assets/pdf/nm_hw01.pdf)  
       [A.3 Programming Digital Systems](https://slides.com/stim-lab/ece3340-a-3-programming)  
       Homework 2: [PDF](/assets/pdf/nm_hw02.pdf)  
-      Programming 1: [PDF](/assets/pdf/programming1.pdf)
+      Programming 1: [PDF](/assets/pdf/helloworld.pdf)
 
   - name: Measurements
     material: |-
@@ -44,29 +44,27 @@ topics:
       Homework 8: [PDF](/assets/pdf/nm_hw08.pdf)  
       [E.3 Matrix Properties](https://slides.com/stim-lab/ece3340-e3-matrix-properties)  
       Homework 9: [PDF](/assets/pdf/nm_hw09.pdf)
-  - name: Regression and Optimization
-    material: |-
-      [F.1 Interpolation](https://slides.com/stim-lab/ece3340-f1-interpolation)  
-      [F.2 Regression](https://slides.com/stim-lab/ece3340-f2-regression)  
-      F.3 Optimization 
   - name: Calculus
     material: |-
-      [G.1 Differentiation](https://slides.com/stim-lab/ece3340-g1-differentiation)  
-      G.2 Integration  
+      [F.1 Differentiation](https://slides.com/stim-lab/ece3340-g1-differentiation)  
+      F.2 Integration  
       Homework 10: [PDF](/assets/pdf/nm_hw10.pdf)  
-      G.3 Differential Equations  
+      F.3 Differential Equations  
       Homework 11: [PDF](/assets/pdf/nm_hw11.pdf)  
-      G.4 The Kessel Run (Mathematics)  
-      G.5 The Kessel Run (Implementation)  
+      F.4 The Kessel Run (Mathematics)  
+      F.5 The Kessel Run (Implementation)  
       Programming Assignment: [Kessel Run](/assets/pdf/kessel.pdf)  
       Template Repository: [GitHub](https://github.com/STIM-Lab/ece3340-kessel)
-
   - name: Random Numbers
     material: |-
-      H.1 Pseudorandom Numbers  
-      H.2 Cryptography and CSPRNGs  
+      G.1 Pseudorandom Numbers  
+      G.2 Cryptography and CSPRNGs  
       Homework 12: [PDF](/assets/pdf/nm_hw12.pdf)
-
+  - name: Regression and Optimization
+    material: |-
+      [H.1 Interpolation](https://slides.com/stim-lab/ece3340-f1-interpolation)  
+      [H.2 Regression](https://slides.com/stim-lab/ece3340-f2-regression)  
+      H.3 Optimization 
   - name: Homework Answers
     material: |-
       [Homework Answer Slides](https://slides.com/stim-lab/ece3340_homework)
