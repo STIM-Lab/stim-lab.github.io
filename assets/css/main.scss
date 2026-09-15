@@ -7,3 +7,10 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* horizontal divider between items in course material tables */
+.material-divider {
+  display: block;
+  margin: 0.4em 0;
+  border-top: 1px solid $border-color;
+}

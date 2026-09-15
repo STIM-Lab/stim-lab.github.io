@@ -11,26 +11,28 @@ topics:
     material: |-
       [**Course Introduction**](/assets/pdf/par/A-1-intro.pdf)  
       *Discussion of course expectations and resources*  
+      <span class="material-divider"></span>
       [**Processor-Level Parallelism**](/assets/pdf/par/A-2-processor-level.pdf)  
       *Limitations on automated parallelism*  
-      [**Homework 1**](/assets/pdf/par/hw01.pdf)  
-      *Instruction-level dependencies and speedup*  
+      [HW 1](/assets/pdf/par/hw01.pdf): Instruction-level dependencies and speedup  
+      <span class="material-divider"></span>
       [**Software Development Platforms**](/assets/pdf/par/A-3-development.pdf)  
       *Useful platforms for building heterogeneous software*  
-      **Programming Assignment 1**: [Parallel Mie Simulation](https://git.stimlab.dev/stim/pa1-parallel-mie)  
-      *Validating your build platform*
+      [PA 1](https://git.stimlab.dev/stim/pa1-parallel-mie): Validate your build platform with a parallel Mie simulation  
 
   - name: Profiling and Memory
     material: |-
       [**Memory**](/assets/pdf/par/B-1-memory.pdf)  
       *Memory instructions, caches, and processor designs*  
+      [HW 2](/assets/pdf/par/homework/02-vocabulary.pdf): Paradigms and memory (vocabulary)  
+      [HW 3](/assets/pdf/par/homework/03-caching.pdf): Cache planning
+      <span class="material-divider"></span>
       [**CPU Profiling**](https://slides.com/stim-lab/parallel-b-02-profiling)  
-      [Profiling Demo](https://codeberg.org/stimlab/par-demo-specialfuncs)  
-      Profiling tools, symbols, and optimization  
+      [Profiling Demo](https://codeberg.org/stimlab/par-demo-specialfuncs): Debugging symbols, tracing, and sampling  
   
   - name: Parallel Problems
     material: |-
-      [**Ray Tracing**](/assets/pdf/par/C-1-raytracing  
+      **Ray Tracing**  
       **Fluid Dynamics**  
       **N-Body Simulations**  
       **Programming Assignment 2:**  
@@ -48,25 +50,25 @@ topics:
       Module A - Ray Tracing  
       Module B - Fluid Dynamics  
       Module C - N-Body Problems  
-      [**Heat Equation**](/assets/pdf/par/D-3-heat-eq.pdf)  
+      **Heat Equation**  
       *Case study in parallelizing partial differential equations*  
-      [**Thread Optimization**](/assets/pdf/par/D-4-optimization.pdf)  
+      **Thread Optimization**  
       *Discussion of how to optimize parallel applications*  
       
 
   - name: Graphics Processing Units
     material: |-
-      [**Graphics Processors**](/assets/pdf/par/E-1-gpus.pdf)  
+      **Graphics Processors**  
       *Evolution and architecture of GPUs*  
-      [**CUDA Application Programming Interface**](/assets/pdf/par/E-2-cuda.pdf)  
+      **CUDA Application Programming Interface**  
       *API calls for querying devices and accessing global memory*  
-      [**CUDA API Libraries**](/assets/pdf/par/E-3-cuda-libs.pdf)  
+      **CUDA API Libraries**  
       *NVIDIA GPU implementations of common numerical libraries*  
-      [**CUDA Threads and Kernels**](/assets/pdf/par/E-4-cuda-threads.pdf)  
+      **CUDA Threads and Kernels**  
       *CUDA language and how kernels are implemented and run on GPUs*  
-      [**CUDA Thrust**](/assets/pdf/par/E-5-thrust.pdf)  
+      **CUDA Thrust**  
       *Standard CUDA template library structures and functions*  
-      [**CUDA Thread Scaling**](/assets/pdf/par/E-6-scaling.pdf)  
+      **CUDA Thread Scaling**  
       *Designing scalable programs and kernels*
 
   
