@@ -25,6 +25,7 @@ topics:
       [**Memory**](/assets/pdf/par/B-1-memory.pdf)  
       *Memory instructions, caches, and processor designs*  
       [**CPU Profiling**](https://slides.com/stim-lab/parallel-b-02-profiling)  
+      [Profiling Demo](https://codeberg.org/stimlab/par-demo-specialfuncs)  
       Profiling tools, symbols, and optimization  
   
   - name: Parallel Problems
