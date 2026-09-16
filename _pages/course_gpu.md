@@ -27,7 +27,7 @@ topics:
       [HW 2](/assets/pdf/par/homework/02-vocabulary.pdf): Paradigms and memory (vocabulary)  
       [HW 3](/assets/pdf/par/homework/03-caching.pdf): Cache planning
       <span class="material-divider"></span>
-      [**CPU Profiling**](https://slides.com/stim-lab/parallel-b-02-profiling)  
+      [**CPU Profiling**](https://slides.com/stim-lab/pa-c-2-profiling)  
       [Profiling Demo](https://codeberg.org/stimlab/par-demo-specialfuncs): Debugging symbols, tracing, and sampling  
   
   - name: Parallel Problems
