@@ -14,33 +14,41 @@ topics:
       <span class="material-divider"></span>
       [**Processor-Level Parallelism**](/assets/pdf/par/A-2-processor-level.pdf)  
       *Limitations on automated parallelism*  
-      [HW 1](/assets/pdf/par/hw01.pdf): Instruction-level dependencies and speedup  
+      [(PDF) HW 1](/assets/pdf/par/hw01.pdf): Instruction-level dependencies and speedup  
       <span class="material-divider"></span>
       [**Software Development Platforms**](/assets/pdf/par/A-3-development.pdf)  
       *Useful platforms for building heterogeneous software*  
-      [PA 1](https://git.stimlab.dev/stim/pa1-parallel-mie): Validate your build platform with a parallel Mie simulation  
+      [(C++) PA 1](https://git.stimlab.dev/stim/pa1-parallel-mie): Validate your build platform with a parallel Mie simulation  
 
   - name: Profiling and Memory
     material: |-
-      [**Memory**](/assets/pdf/par/B-1-memory.pdf)  
-      *Memory instructions, caches, and processor designs*  
-      [HW 2](/assets/pdf/par/homework/02-vocabulary.pdf): Paradigms and memory (vocabulary)  
-      [HW 3](/assets/pdf/par/homework/03-caching.pdf): Cache planning
+      [**B.1 Memory**](/assets/pdf/par/B-1-memory.pdf)  
+      *Discussion of basic memory architecture, specifically as it relates to speed and
+      parallelism. This includes memory instructions, caches and caching
+      strategies, as well as how processors address memory latency with
+      hyperthreading.*  
+      [(PDF) HW 2](/assets/pdf/par/homework/02-vocabulary.pdf): Paradigms and memory (vocabulary)  
+      [(PDF) HW 3](/assets/pdf/par/homework/03-caching.pdf): Cache planning
       <span class="material-divider"></span>
-      [**CPU Profiling**](https://slides.com/stim-lab/pa-c-2-profiling)  
-      [Profiling Demo](https://codeberg.org/stimlab/par-demo-specialfuncs): Debugging symbols, tracing, and sampling  
+      [**B.2 CPU Profiling**](https://slides.com/stim-lab/pa-c-2-profiling)  
+      Describes basic CPU timing, including high-resolution timers available in
+      C++. This lecture also covers different debugging and optimization methods, with a focus
+      on debugging via tracing and profiling using sampling.  
+      [(C++) Profiling Demo](https://codeberg.org/stimlab/par-demo-specialfuncs): Debugging symbols, tracing, and sampling  
   
   - name: Parallel Problems
     material: |-
-      [**Ray Tracing**](https://slides.com/stim-lab/pa-c-1-pathtracing)  
-      [Ray Tracing Template](https://codeberg.org/stimlab/par-raytrace)
+      **C.1 Ray Tracing**  
+      *This lecture provides an overview of ray tracing, including its history and 
+      challenges with parallelization.*  
+      [**C.1a Path Tracing Implementation**](https://slides.com/stim-lab/pa-c-1-pathtracing)  
+      *We cover the basic mathematics behind path tracing - a method for solving
+      the ray tracing problem using Monte-Carlo integration. I'll discuss algorithms for
+      implementing a path tracer as a class module.*  
+      [(C++) Ray Tracing Template](https://codeberg.org/stimlab/par-raytrace): Starting code for PA2 - PA4  
       <span class="material-divider"></span>
       **Fluid Dynamics**  
       **N-Body Simulations**  
-      **Programming Assignment 2:**  
-      Module A - Ray Tracing  
-      Module B - Fluid Dynamics  
-      Module C - N-Body Problems  
 
   - name: Multithreading
     material: |-
@@ -48,10 +56,6 @@ topics:
       *Using C++ std::thread with callback functions*  
       **Multithreading Strategies**  
       *Strategies for basic parallelization in ray tracing, fluid dynamics, and n-body simulations*  
-      **Programming Assignment 3:**  
-      Module A - Ray Tracing  
-      Module B - Fluid Dynamics  
-      Module C - N-Body Problems  
       **Heat Equation**  
       *Case study in parallelizing partial differential equations*  
       **Thread Optimization**  
