@@ -41,7 +41,7 @@ topics:
       **C.1 Ray Tracing**  
       *This lecture provides an overview of ray tracing, including its history and 
       challenges with parallelization.*  
-      [**C.1a Path Tracing Implementation**](https://slides.com/stim-lab/pa-c-1-pathtracing)  
+      [**C.1a Path Tracing Implementation**](https://slides.com/stim-lab/pa-c-1a-pathtracing)  
       *We cover the basic mathematics behind path tracing - a method for solving
       the ray tracing problem using Monte-Carlo integration. I'll discuss algorithms for
       implementing a path tracer as a class module.*  
