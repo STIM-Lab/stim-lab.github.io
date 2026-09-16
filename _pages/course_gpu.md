@@ -32,7 +32,9 @@ topics:
   
   - name: Parallel Problems
     material: |-
-      **Ray Tracing**  
+      [**Ray Tracing**](https://slides.com/stim-lab/pa-c-1-pathtracing)  
+      [Ray Tracing Template](https://codeberg.org/stimlab/par-raytrace)
+      <span class="material-divider"></span>
       **Fluid Dynamics**  
       **N-Body Simulations**  
       **Programming Assignment 2:**  
