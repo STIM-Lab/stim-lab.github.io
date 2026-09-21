@@ -52,7 +52,7 @@ topics:
 
   - name: Multithreading
     material: |-
-      **C++ Multithreading**  
+      [**C++ Multithreading**](https://slides.com/stim-lab/d-1-multithreading)  
       *Using C++ std::thread with callback functions*  
       **Multithreading Strategies**  
       *Strategies for basic parallelization in ray tracing, fluid dynamics, and n-body simulations*  
