@@ -14,7 +14,7 @@ topics:
       <span class="material-divider"></span>
       [**Processor-Level Parallelism**](/assets/pdf/par/A-2-processor-level.pdf)  
       *Limitations on automated parallelism*  
-      [(PDF) HW 1](/assets/pdf/par/hw01.pdf): Instruction-level dependencies and speedup  
+      [(PDF) HW 1](/assets/pdf/par/homework/01-instruction-level-parallelism.pdf): Instruction-level dependencies and speedup  
       <span class="material-divider"></span>
       [**Software Development Platforms**](/assets/pdf/par/A-3-development.pdf)  
       *Useful platforms for building heterogeneous software*  
