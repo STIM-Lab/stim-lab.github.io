@@ -56,7 +56,7 @@ topics:
       *Using C++ std::thread with callback functions*  
       **Multithreading Strategies**  
       *Strategies for basic parallelization in ray tracing, fluid dynamics, and n-body simulations*  
-      **Heat Equation**  
+      [**Heat Equation**](https://slides.com/stim-lab/d-2-heat-equation)  
       *Case study in parallelizing partial differential equations*  
       **Thread Optimization**  
       *Discussion of how to optimize parallel applications*  
