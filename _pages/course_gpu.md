@@ -54,7 +54,7 @@ topics:
     material: |-
       [**D.1 C++ Multithreading**](https://slides.com/stim-lab/d-1-multithreading)  
       *Using C++ std::thread with callback functions*  
-      [(PDF) HW 4](/assets/pdf/par/homework/04-multithreading.pdf)
+      [(PDF) HW 4](/assets/pdf/par/homework/04-multithreading.pdf)  
       **Multithreading Strategies**  
       *Strategies for basic parallelization in ray tracing, fluid dynamics, and n-body simulations*  
       [**D.2 Heat Equation**](https://slides.com/stim-lab/d-2-heat-equation)  
