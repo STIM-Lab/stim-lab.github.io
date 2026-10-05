@@ -59,6 +59,7 @@ topics:
       *Strategies for basic parallelization in ray tracing, fluid dynamics, and n-body simulations*  
       [**D.2 Heat Equation**](https://slides.com/stim-lab/d-2-heat-equation)  
       *Case study in parallelizing partial differential equations*  
+      [(PDF) HW 5](/assets/pdf/par/homework/05-diffusion.pdf)  
       **Thread Optimization**  
       *Discussion of how to optimize parallel applications*  
       
