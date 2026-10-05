@@ -52,11 +52,11 @@ topics:
 
   - name: Multithreading
     material: |-
-      [**C++ Multithreading**](https://slides.com/stim-lab/d-1-multithreading)  
+      [**D.1 C++ Multithreading**](https://slides.com/stim-lab/d-1-multithreading)  
       *Using C++ std::thread with callback functions*  
       **Multithreading Strategies**  
       *Strategies for basic parallelization in ray tracing, fluid dynamics, and n-body simulations*  
-      [**Heat Equation**](https://slides.com/stim-lab/d-2-heat-equation)  
+      [**D.2 Heat Equation**](https://slides.com/stim-lab/d-2-heat-equation)  
       *Case study in parallelizing partial differential equations*  
       **Thread Optimization**  
       *Discussion of how to optimize parallel applications*  
