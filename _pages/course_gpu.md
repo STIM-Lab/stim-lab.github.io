@@ -62,7 +62,7 @@ topics:
       [(PDF) HW 5](/assets/pdf/par/homework/05-diffusion.pdf)  
       **Thread Optimization**  
       *Discussion of how to optimize parallel applications*  
-      [**OpenMP**](https://slides.com/stim-lab/d-4-openmp)  
+      [**D.4 OpenMP**](https://slides.com/stim-lab/d-4-openmp)  
       *OpenMP programming in C/C++**  
       
 
