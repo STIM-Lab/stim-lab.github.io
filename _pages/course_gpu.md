@@ -68,7 +68,7 @@ topics:
 
   - name: Graphics Processing Units
     material: |-
-      **Graphics Processors**  
+      [**E.1 Graphics Processors**](https://slides.com/stim-lab/e-1-gpus)  
       *Evolution and architecture of GPUs*  
       **CUDA Application Programming Interface**  
       *API calls for querying devices and accessing global memory*  
