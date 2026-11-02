@@ -70,9 +70,9 @@ topics:
     material: |-
       [**E.1 Graphics Processors**](https://slides.com/stim-lab/e-1-gpus)  
       *Evolution and architecture of GPUs*  
-      [** E.2 CUDA Application Programming Interface**](https://slides.com/stim-lab/e-2-cuda-api)  
+      [**E.2 CUDA Application Programming Interface**](https://slides.com/stim-lab/e-2-cuda-api)  
       *API calls for querying devices and accessing global memory*  
-      [**CUDA API Libraries**](https://slides.com/stim-lab/e-3-cuda-libraries)  
+      [**E.3 CUDA API Libraries**](https://slides.com/stim-lab/e-3-cuda-libraries)  
       *NVIDIA GPU implementations of common numerical libraries*  
       **CUDA Threads and Kernels**  
       *CUDA language and how kernels are implemented and run on GPUs*  
