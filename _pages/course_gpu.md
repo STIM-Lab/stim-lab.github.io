@@ -73,7 +73,7 @@ topics:
       [**E.2 CUDA Application Programming Interface**](https://slides.com/stim-lab/e-2-cuda-api)  
       *API calls for querying devices and accessing global memory*  
       [**E.3 CUDA API Libraries**](https://slides.com/stim-lab/e-3-cuda-libraries)  
-      *NVIDIA GPU implementations of common numerical libraries*  
+      *NVIDIA GPU implementations of common numerical libraries, including Thrust (the CUDA implementation of STL)*  
       **CUDA Threads and Kernels**  
       *CUDA language and how kernels are implemented and run on GPUs*  
       **CUDA Thrust**  
