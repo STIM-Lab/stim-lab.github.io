@@ -74,7 +74,7 @@ topics:
       *API calls for querying devices and accessing global memory*  
       [**E.3 CUDA API Libraries**](https://slides.com/stim-lab/e-3-cuda-libraries)  
       *NVIDIA GPU implementations of common numerical libraries and Thrust*  
-      **CUDA Threads and Kernels**  
+      [**E.4 CUDA Threads and Kernels**](https://slides.com/stim-lab/e-4-cuda-programming)  
       *CUDA language and how kernels are implemented and run on GPUs*  
       **CUDA Thread Scaling**  
       *Designing scalable programs and kernels*
