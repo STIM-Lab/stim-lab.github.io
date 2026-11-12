@@ -18,7 +18,7 @@ topics:
       <span class="material-divider"></span>
       [**Software Development Platforms**](/assets/pdf/par/A-3-development.pdf)  
       *Useful platforms for building heterogeneous software*  
-      [(C++) PA 1](https://git.stimlab.dev/stim/pa1-parallel-mie): Validate your build platform with a parallel Mie simulation  
+      [(C++) PA 1](https://codeberg.org/stimlab/phc-pa1-mie): Validate your build platform with a parallel Mie simulation  
 
   - name: Profiling and Memory
     material: |-
@@ -45,7 +45,7 @@ topics:
       *We cover the basic mathematics behind path tracing - a method for solving
       the ray tracing problem using Monte-Carlo integration. I'll discuss algorithms for
       implementing a path tracer as a class module.*  
-      [(C++) Ray Tracing Template](https://codeberg.org/stimlab/par-raytrace): Starting code for PA2 - PA4  
+      [(C++) PA2: Ray Tracing](https://codeberg.org/stimlab/par-raytrace): Starting code for PA2 - PA4  
       <span class="material-divider"></span>
       **Fluid Dynamics**  
       **N-Body Simulations**  
