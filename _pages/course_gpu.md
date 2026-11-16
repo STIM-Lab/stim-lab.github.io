@@ -76,6 +76,7 @@ topics:
       *NVIDIA GPU implementations of common numerical libraries and Thrust*  
       [**E.4 CUDA Threads and Kernels**](https://slides.com/stim-lab/e-4-cuda-programming)  
       *CUDA language and how kernels are implemented and run on GPUs*  
+      [(PDF) HW 6](/assets/pdf/par/homework/06-cuda.pdf): CUDA language and API  
       [**E.5 CUDA Global Memory**](https://slides.com/stim-lab/e-5-cuda-global-memory)  
       *Managing global memory fetches through memory instructions and transactions*
       **CUDA Thread Scaling**  
