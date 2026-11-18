@@ -78,10 +78,9 @@ topics:
       *CUDA language and how kernels are implemented and run on GPUs*  
       [(PDF) HW 6](/assets/pdf/par/homework/06-cuda.pdf): CUDA language and API  
       [**E.5 CUDA Global Memory**](https://slides.com/stim-lab/e-5-cuda-global-memory)  
-      *Managing global memory fetches through memory instructions and transactions*
-      **CUDA Thread Scaling**  
-      *Designing scalable programs and kernels*
-
+      *Managing global memory fetches through memory instructions and transactions*  
+      [**E.6 CUDA Shared Memory**](https://slides.com/stim-lab/e-6-cuda-shared-memory)  
+      *Allocating, declaring, and accessing shared memory on a GPU*  
   
 ---
 
