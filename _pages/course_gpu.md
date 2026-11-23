@@ -81,6 +81,8 @@ topics:
       *Managing global memory fetches through memory instructions and transactions*  
       [**E.6 CUDA Shared Memory**](https://slides.com/stim-lab/e-6-cuda-shared-memory)  
       *Allocating, declaring, and accessing shared memory on a GPU*  
+      [**E.7 Heterogeneous API**](https://slides.com/stim-lab/e-7-cuda-heterogeneous-programming)  
+      *Running algorithms across multiple GPUs*  
   
 ---
 
